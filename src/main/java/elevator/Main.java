@@ -1,6 +1,6 @@
 package elevator;
 
-/***
+/**
  * Client`s code.
  * Setting parameters for generating floors and people on the floors.
  * Creating building, elevator and starting main logic.
