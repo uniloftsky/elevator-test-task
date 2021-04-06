@@ -1,5 +1,5 @@
 # elevator-test-task
-Solution for a DataOx<br>
+Solution for DataOx<br>
 Output:
 ```
 Current floor: 1, remaining people on the floor: 0, current elevator floor: 1, current elevator direction: UP, current people in elevator: 3
